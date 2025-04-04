@@ -1,12 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 function App() {
-  return (
-    <div style={{ fontFamily: 'sans-serif', padding: 20 }}>
-      <h1>Asystent Gmail – Start!</h1>
-      <p>Witaj! Aplikacja działa poprawnie 🎉</p>
-    </div>
-  )
+  return <h1>Asystent Gmail uruchomiony!</h1>;
 }
 
-export default App
+export default App;
